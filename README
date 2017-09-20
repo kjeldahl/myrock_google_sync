@@ -1,0 +1,24 @@
+INSTALLATION
+============
+
+Install python 
+  
+  brew install python
+
+Install the gmusicapi using pip
+  
+  pip install gmusicapi
+
+
+Save myrock_google_sync.py to a folder
+
+USAGE
+=====
+
+Run ./myrock_google_sync.py, it will create a configuration file
+in the current folder. Fill in the details and you are ready to sync the playlist.
+
+Run ./myrock_google_sync and it will sync the last 100
+played tracks on Myrock to the Google Play playlist.
+
+
