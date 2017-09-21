@@ -21,4 +21,7 @@ in the current folder. Fill in the details and you are ready to sync the playlis
 Run ./myrock_google_sync and it will sync the last 100
 played tracks on Myrock to the Google Play playlist.
 
+RESOURCES
+=========
 
+gmusicapi: https://unofficial-google-music-api.readthedocs.io/en/latest/usage.html
